@@ -11,9 +11,7 @@ Why has it come to me just porting games and not making things fkdjghsdflkjghsld
           
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=EDED23147575&label=Profile Visitors&color=001eff" alt="EDED2314" />
-  <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
-  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
-  <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
+  <img src="https://img.shields.io/badge/Knows-Python-yellow/?logo=python&color=yellow" alt="py">
   <a href="https://stackoverflow.com/users/16401820/eddie-tang?tab=profile" target="blank"><img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack"></a>
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EDED2314?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
