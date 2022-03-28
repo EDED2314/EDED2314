@@ -1,8 +1,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!;Discord+Bot%2C+Machine+Learning%2C%2Band%2BData+Science%2BCoder;Check+Out+my+Discord+Bot!;Check+Out+my+StackOverflow+Page!)](https://git.io/typing-svg">
-I mostly code with HTML, Java Script, and CSS, and create things for my family, friends, and for personal use!    
-Hit me up if you want somthing simple made or for formating.
+
+I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
   
-Why has it come to me just porting games and not making things fkdjghsdflkjghsldfjkhcviuybxoci  
+D: I am spending my time on here????
   
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=EDED2314&theme=discord" alt="ed.xyz" />   
