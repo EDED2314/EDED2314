@@ -4,7 +4,7 @@ Hit me up if you want somthing simple made or for formating.
 Why has it come to me just porting games and not making things fkdjghsdflkjghsldfjkhcviuybxoci  
   
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Piplup7575&theme=discord" alt="Piplup7575" />   
+    <img src="https://github-profile-trophy.vercel.app/?username=ed.xyz&theme=discord" alt="ed.xyz" />   
           </p> 
           
 <p align="center"> 
