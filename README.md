@@ -8,7 +8,7 @@ Why has it come to me just porting games and not making things fkdjghsdflkjghsld
           </p> 
           
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Piplup7575&label=Profile Visitors&color=001eff" alt="Piplup7575" /> 
+  <img src="https://komarev.com/ghpvc/?username=EDED23147575&label=Profile Visitors&color=001eff" alt="Piplup7575" /> 
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
