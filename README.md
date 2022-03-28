@@ -1,3 +1,5 @@
+# 👋 Hello, I'm Eddie :)
+
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!;Discord+Bot%2C+Machine+Learning%2C%2Band%2BData+Science%2BCoder;Check+Out+my+Discord+Bot!;Check+Out+my+StackOverflow+Page!)](https://git.io/typing-svg">
 
 I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
@@ -24,9 +26,8 @@ D: I am spending my time on here????
 
 
 
-# 👋 Hello, I'm Eddie :)
 
--📫 [My email](mailto:eddietang2314@gmail.com)
+
 
 
 <!---
