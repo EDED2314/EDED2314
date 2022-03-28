@@ -8,15 +8,15 @@ Why has it come to me just porting games and not making things fkdjghsdflkjghsld
           </p> 
           
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=EDED23147575&label=Profile Visitors&color=001eff" alt="Piplup7575" /> 
+  <img src="https://komarev.com/ghpvc/?username=EDED23147575&label=Profile Visitors&color=001eff" alt="EDED2314" /> 
   <img src="https://img.shields.io/badge/Knows-JavaScript-blue/?logo=javascript&logoColor=warning&color=yellow" alt="js">
   <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
   <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=css3&logoColor=blue&color=blue" alt="css">
   <img src="https://img.shields.io/badge/Knows-MarkDown-FFF?logo=markdown" alt="markdown">
   <img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack">
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Piplup7575?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Piplup7575?color=g&label=User%20Followers&logo=github">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EDED2314?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/EDED2314?color=g&label=User%20Followers&logo=github">
 </p>
 
 <p align="center"> <a href="https://soundcloud.com/piplup7575" target="blank"><img src="https://img.shields.io/badge/Soundcloud-Piplup7575-orange?style=for-the-badge&logo=Soundcloud"/></a>
