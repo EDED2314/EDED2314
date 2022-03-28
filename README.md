@@ -18,7 +18,7 @@ Why has it come to me just porting games and not making things fkdjghsdflkjghsld
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/EDED2314?color=g&label=User%20Followers&logo=github">
 </p>
 
-<a href="https://www.youtube.com/channel/UCGbdp5QuzybZQs_SvXgV22A" target="blank"><img src="https://img.shields.io/badge/Youtube-Piplup7575-red?style=for-the-badge&logo=youtube&logoColor=red"/></a></p>
+<a href="https://www.youtube.com/channel/UCGbdp5QuzybZQs_SvXgV22A" target="blank"><p align="center"> <img src="https://img.shields.io/badge/Youtube-Piplup7575-red?style=for-the-badge&logo=youtube&logoColor=red"/></a></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EDED2314&show_icons=true&theme=dark&locale=en" alt="EDED2314" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=EDED2314&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="EDED2314" /></p>
 
