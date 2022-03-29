@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Eddie :)
-![image](https://user-images.githubusercontent.com/91804938/160671256-fff21c67-a984-4323-914f-f4290b4ba9be.png)
+<h1 align="center"><img src="https://raw.githubusercontent.com/Kraots/Kraots/master/wave.gif" width="30px"></h1>
+
 ## 🙋‍♂️ About Me
 - 14 y/o
 - Male
