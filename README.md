@@ -1,9 +1,20 @@
 # 👋 Hello, I'm Eddie :)
 
-📫[My Email](mailto:eddietang2314@gmail.com)
+## 🙋‍♂️ About Me
+- 14 y/o
+- Male
+- US
+- Good at py
+-[My Email](mailto:eddietang2314@gmail.com)
 
-🚀What I use
--------------
+##🚀What I use
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a> 
+
+
+
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!;Discord+Bot%2C+Machine+Learning%2C;+and+Data+Science+Coder;Check+Out+my+Discord+Bot!;Check+Out+my+StackOverflow+Page!)](https://git.io/typing-svg">
 
 I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
