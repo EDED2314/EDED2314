@@ -1,13 +1,13 @@
 # 👋 Hello, I'm Eddie :)
 
-##🙋‍♂️ About Me
+## 🙋‍♂️ About Me
 - 14 y/o
 - Male
 - US
 - Good at py
 -[My Email](mailto:eddietang2314@gmail.com)
 
-##🚀What I use
+## 🚀What I use
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
