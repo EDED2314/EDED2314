@@ -14,9 +14,10 @@
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a> 
 
 
-
+<p>
 <img src="https://readme-typing-svg.herokuapp.com?lines=Hello!;Discord+Bot%2C+Machine+Learning%2C;+and+Data+Science+Coder;Check+Out+my+Discord+Bot!;Check+Out+my+StackOverflow+Page!)](https://git.io/typing-svg">
-
+</p>
+    
 I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
   
 D: I am spending my time on here????
