@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Eddie :)
-<h1 align="center"><img src="https://raw.githubusercontent.com/Kraots/Kraots/master/typing-laptop.gif" width="30px"></h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/EDED2314/EDED2314/master/typing-laptop.gif" width="30px"></h1>
 
 ## 🙋‍♂️ About Me
 - 14 y/o
