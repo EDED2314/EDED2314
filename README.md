@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Eddie :)
 
-## 🙋‍♂️ About Me
+##🙋‍♂️ About Me
 - 14 y/o
 - Male
 - US
