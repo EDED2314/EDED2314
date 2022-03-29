@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Eddie :)
-# <img src="https://raw.githubusercontent.com/EDED2314/EDED2314/master/typing-laptop.gif" width="30px">
+# 👋 Hello, I'm Eddie <img src="https://raw.githubusercontent.com/EDED2314/EDED2314/master/typing-laptop.gif" width="30px">
+I like cats :)
 
 ## 🙋‍♂️ About Me
 - 14 y/o
