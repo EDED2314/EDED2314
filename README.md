@@ -2,7 +2,7 @@
 I like cats :)
 
 ## 🙋‍♂️ About Me
-- 14 y/o
+- 15 y/o
 - Male
 - US
 - Good at py
