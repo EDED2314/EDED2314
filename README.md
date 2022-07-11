@@ -16,7 +16,7 @@ I like cats :)
 
 I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
   
-D: I am spending my time on here????
+
   
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=EDED2314&theme=discord" alt="ed.xyz" />   
