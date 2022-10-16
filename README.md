@@ -15,9 +15,11 @@ I like cats :)
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a> 
     <a href=""> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> </a>
     <a href=""> <img src="https://img.icons8.com/color/48/linux--v1.png"/> </a>
+    <a href=""> <img src="https://img.icons8.com/color/48/flutter.png"/> </a>
     
 
 I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
+I also do flutter development! Currently developing a [gradebook app](https://github.com/Zenesus) for my highschool!
   
 
   
