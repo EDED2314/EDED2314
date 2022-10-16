@@ -19,7 +19,8 @@ I like cats :)
     
 
 I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
-I also do flutter development! Currently developing a [gradebook app](https://github.com/Zenesus) for my highschool!
+    
+I also do flutter development, and am currently developing a [gradebook app](https://github.com/Zenesus) for my highschool!
   
 
   
