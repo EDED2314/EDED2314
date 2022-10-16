@@ -10,12 +10,13 @@ I like cats :)
 
 ## 🚀What I use
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href=""> <img src="https://img.icons8.com/color/48/flutter.png"/> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/pycharm.png"/> </a> 
     <a href=""> <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/> </a>
     <a href=""> <img src="https://img.icons8.com/color/48/linux--v1.png"/> </a>
-    <a href=""> <img src="https://img.icons8.com/color/48/flutter.png"/> </a>
+    </a>
     
 
 I regularly code with python, and I enjoy coding discord bots with discord.py. I am also learning about Machine Learning and Data Science!
