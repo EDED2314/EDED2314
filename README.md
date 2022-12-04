@@ -5,7 +5,6 @@ I like cats :)
 - 15 y/o
 - Male
 - US
-- Good at py
 -[My Email](mailto:eddietang2314@gmail.com)
 
 ## 🚀What I use
