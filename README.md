@@ -1,5 +1,6 @@
 # 👋 Hello, I'm Eddie <img src="https://raw.githubusercontent.com/EDED2314/EDED2314/master/typing-laptop.gif" width="30px">
 I like cats :)
+Merrry Christmas 
 
 ## 🙋‍♂️ About Me
 - 15 y/o
