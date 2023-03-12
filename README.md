@@ -28,14 +28,14 @@ I also do flutter development, and am currently developing a [gradebook app](htt
     <img src="https://github-profile-trophy.vercel.app/?username=EDED2314&theme=discord" alt="ed.xyz" />   
           </p> 
           
-<p align="center"> 
+<!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=EDED23147575&label=Profile Visitors&color=001eff" alt="EDED2314" />
   <img src="https://img.shields.io/badge/Knows-Python-yellow/?logo=python&color=yellow" alt="py">
   <a href="https://stackoverflow.com/users/16401820/eddie-tang?tab=profile" target="blank"><img src="https://img.shields.io/badge/Uses-stackoverflow-blue/?logo=stackoverflow&logoColor=warning&color=ef8236" alt="stack"></a>
   <img src="https://img.shields.io/badge/Uses-Discord-blue/?logo=discord&logoColor=warning&color=7289DA" alt="discord">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/EDED2314?color=yellow&label=User%20Stars&logo=github&logoColor=yellow">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/EDED2314?color=g&label=User%20Followers&logo=github">
-</p>
+</p> -->
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EDED2314&show_icons=true&theme=dark&locale=en" alt="EDED2314" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=EDED2314&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="EDED2314" /></p>
 
