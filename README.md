@@ -39,6 +39,11 @@ I also do flutter development, and am currently developing a [gradebook app](htt
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=EDED2314&show_icons=true&theme=dark&locale=en" alt="EDED2314" /><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=EDED2314&show_icons=true&theme=dark&locale=en&langs_count=10&layout=compact" alt="EDED2314" /></p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
 
