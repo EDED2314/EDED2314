@@ -26,7 +26,7 @@ I also do flutter development, and am currently developing a [gradebook app](htt
   
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=EDED2314&theme=discord" alt="ed.xyz" />   
-          </p> 
+          </p>   
           
 <!-- <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=EDED23147575&label=Profile Visitors&color=001eff" alt="EDED2314" />
