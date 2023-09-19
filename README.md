@@ -2,7 +2,6 @@
 I like cats :)
 
 ## 🙋‍♂️ About Me
-- 16 y/o
 - Male
 - US
 -[My Email](mailto:eddietang2314@gmail.com)
